@@ -33,5 +33,11 @@
       <Name>ct-engine</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="csv\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="csv\transcript.csv" />
+  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

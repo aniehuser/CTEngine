@@ -7,7 +7,7 @@ namespace ct_engine_test
     {
         public static void Main(string[] args)
         {
-            Class1 test = new Class1();        
+                   
         }
     }
 }

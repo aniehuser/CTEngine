@@ -7,4 +7,8 @@
   <ItemGroup>
     <Compile Remove="main.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="FileLoading\" />
+    <Folder Include="ScheduleComponents\" />
+  </ItemGroup>
 </Project>
